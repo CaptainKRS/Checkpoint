@@ -54,8 +54,6 @@ ASSIGN mythirdVar to equal to a string with the text ==>  hello world
 
 var myThirdVar;
 
-// YOUR CODE HERE
-
 /*
 QUESTION 4
 
